@@ -1,0 +1,14 @@
+[
+    { "name":"Karol", "starting_money":"4930", "bank": "PKO" },
+    { "name":"Piotr", "starting_money":"320", "bank": "MBank" },
+    { "name":"Maciek", "starting_money":"17500", "bank": "Millenium" },
+    { "name":"Robert", "starting_money":"523", "bank": "MBank" },
+    { "name":"Julia", "starting_money":"7431", "bank": "PKO" },
+    { "name":"Tymon", "starting_money":"1134", "bank": "Millenium" },
+    { "name":"Dorian", "starting_money":"0", "bank": "PKO" },
+    { "name":"Krystian", "starting_money":"0", "bank": "Millenium" },
+    { "name":"Patrycja", "starting_money":"4643", "bank": "PKO" },
+    { "name":"Ola", "starting_money":"352", "bank": "MBank" },
+    { "name":"Paulina", "starting_money":"6437", "bank": "CELOWY_ZLY_BANK" },
+    { "name":"Ewa", "starting_money":"7698", "bank": "MBank" }
+]
